@@ -1,6 +1,6 @@
 var questions = [
     {
-        title: "Which of the following is NOT an example of a javascript variable?",
+        title: "Which of the following is Not an example of a javascript variable?",
         choices: ["let", "var", "set", "const"],
         answer: "set"
     },
